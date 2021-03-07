@@ -1,0 +1,39 @@
+{
+  "produtos": [
+    {
+      "id": 1,
+      "name": "Caneta Esferográfica Vermelha",
+      "price": "1.00"
+    },
+    {
+      "id": 2,
+      "name": "Notebook Mac Pro",
+      "price": "12.500"
+    },
+    {
+      "id": 3,
+      "name": "Samsung S10+",
+      "price": "5000"
+    },
+    {
+      "name": "Geladeira",
+      "price": "1913.99",
+      "id": 4
+    },
+    {
+      "name": "Tablet Dell",
+      "price": 123,
+      "id": 6
+    },
+    {
+      "name": "Suporte para notebook",
+      "price": 123,
+      "id": 7
+    },
+    {
+      "name": "",
+      "price": 123,
+      "id": 8
+    }
+  ]
+}
